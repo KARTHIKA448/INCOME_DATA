@@ -1,8 +1,8 @@
-"INCOME CENSUS DATASET"
-- This dataset contains information from the U.S. Census regarding various demographic and socioeconomic factors of individuals.
-- The primary focus is on predicting whether an individual earns more than $50,000 per year based on features such as age, education, occupation, and more.
-
 I've finished a project using the dataset "income_data.csv" in the repository "INCOME_DATA".
+
+"INCOME CENSUS DATASET"
+  - This dataset contains information from the U.S. Census regarding various demographic and socioeconomic factors of individuals.
+  - The primary focus is on predicting whether an individual earns more than $50,000 per year based on features such as age, education, occupation, and more.
 
 The data contains 32561 instances with the following attributes. Each feature tells us about:
   - Age: Represents the age of the individual.- Workclass: Describes the type of employment or work class the individual is associated with (e.g., State government, Self-employed, Private).
@@ -25,6 +25,7 @@ Power Bi and Jupyter Notebook are the tools used for this project.
 
 The steps involved:
       IN JUPYTER NOTEBOOK:
+      
                           1.Importing required libraries.
                           2.Read the dataset.
                           3.Rename the features.
@@ -50,6 +51,7 @@ The steps involved:
       
       IN POWER BI: 
 The data is cleaned and saved as a new "INCOME_DATA.csv" file after being processed in the Jupyter notebook.IN POWER BI:
+
                           1.Load the data.
                           2.Create visualisations.
                           3.Arrange visualisations.
