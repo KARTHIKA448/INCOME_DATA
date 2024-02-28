@@ -1,4 +1,4 @@
-I've finished a project using the dataset "income_data.csv" in the repository "INCOME_DATA".
+I've finished a project using the dataset "income_data.csv" in this repository "INCOME_DATA".
 
 "INCOME CENSUS DATASET"
   - This dataset contains information from the U.S. Census regarding various demographic and socioeconomic factors of individuals.
